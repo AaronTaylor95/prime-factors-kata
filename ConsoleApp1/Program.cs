@@ -1,4 +1,4 @@
-﻿using prime_factors_kata;
+﻿using kata;
 using System;
 
 namespace ConsoleApp1

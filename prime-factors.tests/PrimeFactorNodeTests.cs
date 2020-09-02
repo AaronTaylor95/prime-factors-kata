@@ -1,5 +1,5 @@
 using NUnit.Framework;
-using prime_factors_kata;
+using kata;
 
 namespace prime_factors.tests
 {

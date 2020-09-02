@@ -14,7 +14,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\prime-factors-kata\prime-factors.csproj" />
+    <ProjectReference Include="..\kata\kata.csproj" />
   </ItemGroup>
 
 </Project>

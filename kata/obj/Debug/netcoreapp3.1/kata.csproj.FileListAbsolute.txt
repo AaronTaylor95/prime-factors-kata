@@ -1,0 +1,9 @@
+C:\Users\aaron.taylor\source\kata\prime-factors-kata\kata\bin\Debug\netcoreapp3.1\kata.deps.json
+C:\Users\aaron.taylor\source\kata\prime-factors-kata\kata\bin\Debug\netcoreapp3.1\kata.dll
+C:\Users\aaron.taylor\source\kata\prime-factors-kata\kata\bin\Debug\netcoreapp3.1\kata.pdb
+C:\Users\aaron.taylor\source\kata\prime-factors-kata\kata\obj\Debug\netcoreapp3.1\kata.csprojAssemblyReference.cache
+C:\Users\aaron.taylor\source\kata\prime-factors-kata\kata\obj\Debug\netcoreapp3.1\kata.csproj.CoreCompileInputs.cache
+C:\Users\aaron.taylor\source\kata\prime-factors-kata\kata\obj\Debug\netcoreapp3.1\kata.AssemblyInfoInputs.cache
+C:\Users\aaron.taylor\source\kata\prime-factors-kata\kata\obj\Debug\netcoreapp3.1\kata.AssemblyInfo.cs
+C:\Users\aaron.taylor\source\kata\prime-factors-kata\kata\obj\Debug\netcoreapp3.1\kata.dll
+C:\Users\aaron.taylor\source\kata\prime-factors-kata\kata\obj\Debug\netcoreapp3.1\kata.pdb
