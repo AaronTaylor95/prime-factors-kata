@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30011.22
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "prime-factors-kata", "prime-factors-kata\prime-factors-kata.csproj", "{6C9B6F0F-038C-4D01-82F1-B53780BA313E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "prime-factors", "prime-factors-kata\prime-factors.csproj", "{6C9B6F0F-038C-4D01-82F1-B53780BA313E}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "prime-factors.tests", "prime-factors.tests\prime-factors.tests.csproj", "{F926ABE5-5987-448E-BFB7-198C065B1E89}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{F9A8C0EF-4E14-485F-A50B-18082C8A8CEB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{F9A8C0EF-4E14-485F-A50B-18082C8A8CEB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
