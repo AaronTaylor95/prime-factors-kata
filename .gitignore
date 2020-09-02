@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/prime-factors-kata/obj/Debug/netcoreapp3.1
+/prime-factors-kata/obj
+/prime-factors.tests/obj
+/.vs/prime-factors-kata/v16
+/prime-factors-kata/bin/Debug/netcoreapp3.1
+/prime-factors.tests/bin/Debug/netcoreapp3.1
+/ConsoleApp1
